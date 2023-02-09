@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable kacama
+drawable kacamata2
+drawable kacamata3
+id Viewpager2
+id tabLayout2
+layout activity_main
+layout fragment_chat
+layout fragment_panggilan
+layout fragment_status
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Theme.Fragments
+xml backup_rules
+xml data_extraction_rules

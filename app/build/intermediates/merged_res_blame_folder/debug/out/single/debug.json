@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/layout_fragment_panggilan.xml.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/layout/fragment_panggilan.xml"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/drawable_kacama.jpeg.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/drawable/kacama.jpeg"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/drawable_kacamata3.jpeg.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/drawable/kacamata3.jpeg"
+    },
+    {
+        "merged": "com.example.fragments.app-merged_res-5:/layout_fragment_panggilan.xml.flat",
+        "source": "com.example.fragments.app-main-7:/layout/fragment_panggilan.xml"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/layout_fragment_chat.xml.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/layout_fragment_status.xml.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/layout/fragment_status.xml"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/drawable_kacamata2.jpeg.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/drawable/kacamata2.jpeg"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/muhammadfatwa/Downloads/daemon/7.5/com.example.fragments.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
